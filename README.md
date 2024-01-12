@@ -17,3 +17,4 @@ Average (Avr):
 The average provides a central tendency measure, giving users a sense of the typical or average behavior of the sensor during different hours. It smoothens out variations and can highlight trends or patterns in the data.
 Maximum (Max):
 Max values help identify peaks or spikes in the sensor readings. This is crucial for recognizing instances when the sensor recorded unusually high values, indicating important events or conditions.
+![image](https://github.com/BehnamMotamedi/-Sensor-Data-Trends-Visualizing-Min-Avg-and-Max-Values-Over-Time-/assets/153086757/49bb1e70-e8d6-467a-a4b4-aec97f9d8daf)
