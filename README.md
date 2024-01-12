@@ -1,5 +1,6 @@
 # Sensor-Data-Trends-Visualizing-Min-Avg-and-Max-Values-Over-Time-
 📊 Sensor Data Trends: Visualizing Min, Avg, and Max Values Over Time 📈
+
 I'm thrilled to share a Data Visualization app developed using R Studio! This app enables you to upload your data, select a date range, and choose specific sensors to generate interactive plots showcasing minimum, average, and maximum values over time.
  
 The purpose of this program is to empower users to quickly identify patterns, outliers, and trends in the data, leading to a more informed analysis of data behavior during different hours (without installing any special programs). Additionally, I've prepared a tutorial video demonstrating how to use the app and provided simple instructions on formatting your Excel file.
